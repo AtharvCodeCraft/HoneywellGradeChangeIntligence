@@ -92,24 +92,11 @@ Honeywell-Grade-Change-Intelligence/
 
 ### 🏠 Dashboard
 
-(Add Screenshot)
-
-```
-![Dashboard](images/dashboard.png)
-```
-
----
+images/dashboard.png
 
 ### 📊 AI Prediction
 
-(Add Screenshot)
-
-```
-![Prediction](images/prediction.png)
-```
-
----
-
+images/prediction.png
 ### 📈 SHAP Explanation
 
 (Add Screenshot)
@@ -122,23 +109,11 @@ Honeywell-Grade-Change-Intelligence/
 
 ### 💡 AI Recommendations
 
-(Add Screenshot)
-
-```
-![Recommendations](images/recommendation.png)
-```
-
----
+images/recommendation.png
 
 ### 🔥 Correlation Heatmap
 
-(Add Screenshot)
-
-```
-![Heatmap](images/heatmap.png)
-```
-
----
+images/heatmap.png
 
 ### 📄 PDF Report
 
