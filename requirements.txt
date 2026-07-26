@@ -1,8 +1,10 @@
 pandas
+streamlit
+pandas
 numpy
+matplotlib
 scikit-learn
 xgboost
-joblib
-streamlit
 shap
-matplotlib
+joblib
+reportlab
