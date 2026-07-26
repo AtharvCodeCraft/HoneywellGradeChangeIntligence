@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 import os
-from pdf_report import generate_pdf
+
 
 # ==============================
 # Project Paths
