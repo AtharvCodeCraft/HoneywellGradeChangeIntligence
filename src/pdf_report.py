@@ -1,3 +1,7 @@
+from recommendation import generate_recommendations
+from explain_ai import explain_prediction
+from pdf_report import generate_pdf
+
 from reportlab.platypus import (
     SimpleDocTemplate,
     Paragraph,
